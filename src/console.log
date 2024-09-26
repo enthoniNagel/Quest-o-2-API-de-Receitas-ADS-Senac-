@@ -1,0 +1,4 @@
+<button onClick={() => {
+  console.log('Doces selecionados');
+  setTipoSelecionado('Doce');
+}}>Doces</button>
